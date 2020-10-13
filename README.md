@@ -1,1 +1,2 @@
-# face_similarity_score
+# Face Similarity Score
+การทดลองอย่างง่ายสำหรับการหาความคล้ายคลึงของภาพใบหน้า
